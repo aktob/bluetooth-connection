@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "70960843399",
+    "project_id": "crafty-helper-382108",
+    "storage_bucket": "crafty-helper-382108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70960843399:android:031653befc0f68641c0622",
+        "android_client_info": {
+          "package_name": "com.example.course_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70960843399-aom5rmekpm2909locp41fs7agaca1k0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JRCbTPLylIQ6x-qhkpX0N2twIz5eIbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70960843399-aom5rmekpm2909locp41fs7agaca1k0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70960843399-6e8kjoichjk66h86vgr3ci2dcr5r6ocj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70960843399:android:6869922ec5bde71f1c0622",
+        "android_client_info": {
+          "package_name": "com.example.earthquakebluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70960843399-aom5rmekpm2909locp41fs7agaca1k0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JRCbTPLylIQ6x-qhkpX0N2twIz5eIbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70960843399-aom5rmekpm2909locp41fs7agaca1k0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70960843399-6e8kjoichjk66h86vgr3ci2dcr5r6ocj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70960843399-qjk8afokhm8j0j6qbjlcglokrl2ree97.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70960843399-qjk8afokhm8j0j6qbjlcglokrl2ree97</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhgYaCGnd_6_2EDNLX3yBPwTv-0Luu4Z8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70960843399</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.earthquakebluetooth</string>
+	<key>PROJECT_ID</key>
+	<string>crafty-helper-382108</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crafty-helper-382108.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70960843399:ios:8bb9870011a041851c0622</string>
+</dict>
+</plist>
